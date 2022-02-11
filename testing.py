@@ -1,4 +1,2 @@
 def main():
-	print("This is so hard")
-
-
+print("this class is so hard!")
